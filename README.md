@@ -1,4 +1,4 @@
-# Image Detection Model AI
+# Indian Sign Language Detection Model AI
 
 This project implements an image detection model for recognizing Indian Sign Language hand signs.
 
