@@ -1,4 +1,4 @@
-# Image Detection Model AI (Real-Time)
+# Indian Sign Language Detection Model AI (Real-Time)
 A real-time hand sign detection system that uses a live webcam feed to recognize
 Indian Sign Language (ISL) gestures using machine learning and computer vision.
 This project demonstrates an end-to-end real-time computer vision pipeline,
