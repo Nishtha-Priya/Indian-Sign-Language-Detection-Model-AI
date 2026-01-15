@@ -1,11 +1,29 @@
-# Indian Sign Language Detection Model AI
-
-This project implements an image detection model for recognizing Indian Sign Language hand signs.
+# Image Detection Model AI (Real-Time)
+A real-time hand sign detection system that uses a live webcam feed to recognize
+Indian Sign Language (ISL) gestures using machine learning and computer vision.
+This project demonstrates an end-to-end real-time computer vision pipeline,
+from model training to live camera-based inference.
 
 ## Dataset
-- The dataset is from Kaggle: https://www.kaggle.com/datasets/soumyakushwaha/indian-sign-language-dataset
+- Indian Sign Language Dataset (Kaggle)  
+- https://www.kaggle.com/datasets/soumyakushwaha/indian-sign-language-dataset  
 
-## How to run
-1. Clone the repo
-2. Install dependencies
-3. Open notebooks to run models
+Dataset is not included due to size and licensing constraints.
+
+## How It Works
+- Train ML models on ISL hand sign data
+- Integrate the trained model with a live camera feed
+- Perform real-time gesture detection
+
+## Files
+- Models used.ipynb-> Model experiments <br>
+- Real Time Detection.ipynb-> Live webcam detection <br>
+- app.ipynb-> Application workflow <br>
+
+## Limitations
+- Low real-time accuracy
+- Sensitive to lighting and background conditions
+- Limited dataset and tuning
+
+## Tech Stack
+Python, OpenCV, Machine Learning, Computer Vision
