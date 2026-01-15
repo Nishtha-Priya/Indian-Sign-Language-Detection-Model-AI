@@ -41,3 +41,6 @@ Python, OpenCV, Machine Learning, Computer Vision
 - NumPy
 - Jupyter Notebook<br>
 `pip install opencv-python numpy tensorflow`
+
+## Teammate
+- Aisha Aijaz-(https://github.com/aishaaijaz)
